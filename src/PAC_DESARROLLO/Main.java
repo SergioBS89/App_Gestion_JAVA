@@ -262,7 +262,7 @@ public class Main {
 
 
                     case 0:
-                        System.out.println("Muchas gracias por usar mi App de gestión de gastos, hasta la proxima!");
+                        System.out.println("Fin del programa. Gracias por utilizar la aplicación.");
                         break;
 
                     case 1:
